@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./juriscanoniciun01maupgoog/juriscanoniciun01maupgoog_0008.png"; bbox 0 0 4008 6460; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 370 2421 1558 2648">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 331 2421 1558 2712">
+     <span class='ocr_line' id='line_1_1' title="bbox 370 2421 1558 2648; baseline 0.028 -32.919"><span class='ocrx_word' id='word_1_1' title='bbox 370 2425 755 2646; x_wconf 78' lang='grc'><strong>11111</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 845 2421 1558 2648; x_wconf 83' lang='grc'><strong>1111111·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 381 3067 1305 3354">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 381 3067 1305 3354">
+     <span class='ocr_line' id='line_1_2' title="bbox 381 3067 1305 3354; baseline 0 -102"><span class='ocrx_word' id='word_1_3' title='bbox 381 3349 382 3354; x_wconf 5' lang='grc' dir='ltr'>ψ</span> <span class='ocrx_word' id='word_1_4' title='bbox 556 3067 1305 3257; x_wconf 79' lang='grc'><strong>1111111111.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2008 6452">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2008 6452">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 2008 6452; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 0 0 2008 6452; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
